@@ -405,5 +405,3 @@ config openclash 'config'
 	option geoip_custom_url 'https://testingcf.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat'
 	option create_config '0'
 	option append_wan_dns '0'
-
-高速下载
